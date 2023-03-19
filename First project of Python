@@ -1,0 +1,5 @@
+z = input("Enter your name! :")
+print("my name is :", z)
+x = input("Enter your number! :" )
+y = input("Enter your 2nd number! :" )
+print (int(x) * int(y) )
